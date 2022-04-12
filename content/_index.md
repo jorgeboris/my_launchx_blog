@@ -11,6 +11,6 @@ Mis expectativas para este proyecto son:
 
 - Aprender todo lo relacionado con el Backend en conjunto con Bases de Datos.
 - La integración de GitHub para el manejo del proyecto.
-- Mejorar las prafticas a la hora de escribir código.
+- Mejorar las prácticas a la hora de escribir código.
 
 🚀
