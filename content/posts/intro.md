@@ -12,3 +12,4 @@ Para mi los valores que forman a un profesional de software son los siguientes:
 - Honestidad
 - Ingenio
 - Dedicación
+- Trabajo en Equipo
