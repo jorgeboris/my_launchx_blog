@@ -1,5 +1,5 @@
 ---
-title: "Que es Hugo:question:"
+title: "¿Que es Hugo?"
 date: 2022-04-22
 description: 'Hola!! en este post te contaré sobre el framework Hugo y sus utilidades'
 ---
