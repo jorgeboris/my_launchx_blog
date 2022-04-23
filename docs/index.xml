@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Jorge Vargas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgeboris.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgeboris.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Que es Hugo:question:</title>
+      <link>https://jorgeboris.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgeboris.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola! si estas aquí de seguro te estaras preguntaras ¿Que es Hugo?. Bueno, esta herramienta te permite crear sitios web estáticos, en este punto tal vez pienses ¿Que es una web estática?. Pues una web estática es aquella que muestra un contenido igual para cada usuario que la visita tal como un blog. En la comunidad de Hugo hay infinidad de templates listos para usar de los cuales puedes elegir alguno y comenzar a trabajar :grin:</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en Launch X :)</title>
       <link>https://jorgeboris.github.io/my_launchx_blog/posts/post_1/</link>
